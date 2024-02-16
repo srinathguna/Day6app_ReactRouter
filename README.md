@@ -10,7 +10,7 @@ First, clone this repository:
 git clone https://github.com/srinathguna/Day6app_ReactRouter.git
 
 # Go to the project directory
-cd Day3app_ReactRouter
+cd Day6app_ReactRouter
 
 Next, install the dependencies:
 
@@ -25,10 +25,10 @@ npm start
 Open http://localhost:3000 in your browser to see the app.
 
 # Demo
-You can see a live demo of the app here: https://srinathreactshoppingcart.netlify.app/
+You can see a live demo of the app here: https://srinathreactrouterapp.netlify.app/
 
 # Features
-1. Browse products and price range
-2. Add and remove products from the shopping cart
-3. View the quantity of the items in your cart
+1. Browse blog card on topic wise.
+2. Navigate to page to another page blog topic
+3. View the card of the items with image,heading and descrition
 4. Responsive and minimalist design
